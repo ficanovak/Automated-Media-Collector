@@ -1,0 +1,15 @@
+Install python 3.6+
+Select PATH
+
+Open cmd as administrator
+type:
+pip3 install instaloader
+pip3 install telegram-send
+
+napravi bota preko botfather-a
+ubaci ga u grupu
+
+u cmd-u kucaj telegram-send --configure-group
+prekopiraj API od botfather-a
+
+edituj bot.py i startuj ga
