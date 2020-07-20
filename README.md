@@ -45,7 +45,7 @@ telegram-send --configure-group
 
 ### An example of my bot and Telegram group with feed:
 <p align="center">
-  <img src="chucky_group.png" width="300px" />
+  <img src="chucky_group.png" width="600px" />
 </p>
 
 ## What's included
