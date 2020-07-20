@@ -50,7 +50,7 @@ telegram-send --configure-group
 
 ## What's included
 
-Within the download you'll find common assets providing both compiled and minified variations. You should see something like this:
+Within the download you'll find a folder with media and bot script. You should see something like this:
 
 ```text
 Automated-Media-Collector/
