@@ -5,7 +5,7 @@ import time
 print("Starting")
 L = instaloader.Instaloader(download_comments=False, max_connection_attempts=9, post_metadata_txt_pattern=None, save_metadata=False, download_video_thumbnails=False, download_geotags=False, filename_pattern="{shortcode}")
 print("Login")
-BOT_INSTAGRAM_ACCOUNT = L.login("botko.botkic","StevoLjilja2710")
+BOT_INSTAGRAM_ACCOUNT = L.login("username","password")
 print("Login successful")
 
 PROFILES = ["tackleberry_84", "nervozni_pingvin", "otac_branislav", "gangsteritogroup", "ptica.drkacica", "ludkoleptir", "kojavitez1981", "trkacko_pile", "gospodar_prsljenova", "golman_u_penziji", "riba.cekicara"]
